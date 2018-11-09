@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_setting"
+        android:icon="@drawable/ic_settings"
+        android:title="Setting"/>
+
+    <item
+        android:id="@+id/navigation_telegram"
+        android:title="Telegram"
+        android:icon="@drawable/ic_send"/>
+    <item
+        android:id="@+id/navigation_feedback"
+        android:title="Feedback"
+        android:icon="@drawable/ic_feedback"/>
+    <item
+        android:id="@+id/navigation_help"
+        android:title="Help"
+        android:icon="@drawable/ic_help"/>
+
+    <item
+        android:id="@+id/navigation_about_us"
+        android:icon="@drawable/ic_face"
+        android:title="About Us"/>
+
+
+</menu>

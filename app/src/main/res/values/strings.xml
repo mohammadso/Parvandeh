@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Parvandeh</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_main">Parvandeh</string>
+    <string name="title_activity_adding">Add New Contact</string>
+    <string name="title_activity_showing">Information</string>
+    <string name="title_activity_edit">Edit Information</string>
+    <string name="title_activity_about_us">About Me</string>
+    <string name="dataBase_saved">Successfully Saved</string>
+    <string name="dataBase_not_saved">Unable to save</string>
+    <string name="edit_text_file_id">File ID*</string>
+    <string name="edit_text_name">Name*</string>
+    <string name="edit_text_phone_number">Phone*</string>
+    <string name="edit_text_phone_number_second">Phone 2nd</string>
+    <string name="edit_text_tel_number">Telephone</string>
+    <string name="edit_text_teller">Teller</string>
+    <string name="edit_text_address">Address</string>
+    <string name="edit_text_visit_date">First visit</string>
+    <string name="button_save">Save</string>
+    <string name="required">Required*</string>
+    <string name="delete_dialog_alert">Alert</string>
+
+    <string name="about_me">من محمد سبحانی دانشجوی رشته کامپیوتر و متولد فروردین 76 هستم و مدت زیادی است که به یادگیری برنامه نویسی مشغولم ولی نمونه کارهای زیادی ندارم. Parvandeh یکی از اولین برنامه های من است. \n لطفاً با انتقادات و پیشنهاداتتون رو برای هر چه بهتر شدن این برنامه برام ارسال کنید.\n *جهت ارسال پیشنهادات می توانید از لینک تلگرام یا آدرس ایمیل در منوی کشویی صفحه اصلی استفاده کنید. </string>
+
+</resources>

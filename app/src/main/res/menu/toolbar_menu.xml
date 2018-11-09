@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/toolbar_importExportExcel"
+        android:title="Import/Export Excel"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/toolbar_importExportData"
+        android:title="Import/Export Data"
+        android:orderInCategory="200"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/toolbar_allContacts"
+        android:title="All Contacts"
+        app:showAsAction="never"
+        android:orderInCategory="300"/>
+    <item
+        android:id="@+id/toolbar_exit"
+        android:orderInCategory="400"
+        android:title="Exit"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_search"
+        android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="always"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        android:title="Search"/>
+
+</menu>
